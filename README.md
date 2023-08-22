@@ -1,30 +1,30 @@
-### Website Layout Project for Consulting Services for Large Businesses
+# Website Layout Project for Consulting Services for Large Businesses
 https://oksana2211.github.io/Project/
 
 Single-page website created based on the designed layout:
 https://www.figma.com/file/HjG1BAfAAaeDaaX3Kvpw2F/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%B4%D0%BB%D1%8F-%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D0%B8-(FINAL)?node-id=0%3A1&t=eKznSepsQMruIlMh-0.
 
 ## Project Team
-Oksana Taysumova (https://github.com/Oksana2211)
-Anastasia Clifford (https://github.com/nastyaclifford)
-Anastasia Iskenderova (https://github.com/ianastasiya)
-Ksenia Kochineva (https://github.com/Kseniva)
-Maryna Ovcharenko (https://github.com/Mmaryna68)
-Aida Rakhimova (https://github.com/Aida1005)
-Ekaterina Grigas (https://github.com/grigaskate)
-Olesya Mikhaylova (https://github.com/Olesya6666)
-Elena Mironova (https://github.com/MironovaElena)
-Irina Abramova (https://github.com/Lira11io)
-Aygül Tashmatova (https://github.com/Aygul2022)
-Evgenia Maltseva (https://github.com/EvgeniaMaltseva)
-Yulia Starikova ( https://github.com/CodeMeYulia)
+1. Oksana Taysumova (https://github.com/Oksana2211)
+2. Anastasia Clifford (https://github.com/nastyaclifford)
+3. Anastasia Iskenderova (https://github.com/ianastasiya)
+4. Ksenia Kochineva (https://github.com/Kseniva)
+5. Maryna Ovcharenko (https://github.com/Mmaryna68)
+6. Aida Rakhimova (https://github.com/Aida1005)
+7. Ekaterina Grigas (https://github.com/grigaskate)
+8. Olesya Mikhaylova (https://github.com/Olesya6666)
+9. Elena Mironova (https://github.com/MironovaElena)
+10. Irina Abramova (https://github.com/Lira11io)
+11. Aygül Tashmatova (https://github.com/Aygul2022)
+12. Evgenia Maltseva (https://github.com/EvgeniaMaltseva)
+13. Yulia Starikova ( https://github.com/CodeMeYulia)
 
 ## Functionality and Site Description
 The project was created by the team on the request of the client as part of practical work in the IT Girls school. The layout used for the development was also designed by the project team.
 
 ## Project goals included:
 
-Creating a one-page portfolio website for a consulting business, offering services such as business plans, financial models, and business processes. The target audience was large companies with an annual turnover of over 450 million rubles (not individuals or sole proprietors).
+Creating a single-page portfolio website for a consulting business, offering services such as business plans, financial models, and business processes. The target audience was large companies with an annual turnover of over 450 million rubles (not individuals or sole proprietors).
 The approximate website structure was planned to be:
 Introduction
 About the Owner
@@ -58,3 +58,6 @@ Why Me (_main-advantages.scss)
 Footer (_footer.scss)
 Styles for standard text styles on the page are in _root.scss. Text styles that differ from the standard and are applied to different screen sizes are in _mixin.scss. Variables for various page colors are in _variables.scss. Normalize is in _normalize.scss.
 While working with the code, add the lines app.css and app.css.map to the .gitignore file. Also, ensure that only one version of app.css is present during work.
+## Thanks to the project team! 
+
+[![Contributors](https://contrib.rocks/image?repo=Oksana2211/Project)](https://github.com/Oksana2211/Project/graphs/contributors)
