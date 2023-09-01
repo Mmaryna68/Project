@@ -55,7 +55,7 @@ GitHub
 
 # Installation Instructions
 To clone the project to your computer, execute the command:
-git clone https://github.com/Oksana2211/Project.git 
+git clone https://github.com/Mmaryna68/Project 
 
 Header (_header.scss)
 Introduction and About Me (_introduce.scss)
