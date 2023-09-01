@@ -1,6 +1,15 @@
 # Website Layout Project for Consulting Services for Large Businesses
 https://oksana2211.github.io/Project/
 
+![Снимок экрана 2023-09-01 в 2 19 12 PM](https://github.com/Mmaryna68/Project/assets/119791149/2a697acb-d1c5-4d56-b278-80fcd35e6797)
+![Снимок экрана 2023-09-01 в 2 19 47 PM](https://github.com/Mmaryna68/Project/assets/119791149/ef0375cf-5a31-4bf4-84e4-94eeed9667ca)
+![Снимок экрана 2023-09-01 в 2 21 17 PM](https://github.com/Mmaryna68/Project/assets/119791149/c6a4cb0e-71a4-4667-ae6c-2dc05eb885fb)
+![Снимок экрана 2023-09-01 в 2 25 12 PM](https://github.com/Mmaryna68/Project/assets/119791149/b8f6e320-9763-4150-8ccd-b7e4349cdbef)
+![Снимок экрана 2023-09-01 в 2 26 13 PM](https://github.com/Mmaryna68/Project/assets/119791149/3ce02cd1-cc33-4aac-9f10-a284e46e4479)
+![Снимок экрана 2023-09-01 в 2 27 28 PM](https://github.com/Mmaryna68/Project/assets/119791149/b815425d-4490-4328-83d3-1615b03ac4a0)
+![Снимок экрана 2023-09-01 в 2 27 58 PM](https://github.com/Mmaryna68/Project/assets/119791149/c527aa8a-1442-4438-93ab-cb82fd0b1a2a)
+![Снимок экрана 2023-09-01 в 2 29 15 PM](https://github.com/Mmaryna68/Project/assets/119791149/0ca57130-d7ac-4c1a-b897-aff3a4f88370)
+
 Single-page website created based on the designed layout:
 https://www.figma.com/file/HjG1BAfAAaeDaaX3Kvpw2F/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%B4%D0%BB%D1%8F-%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D0%B8-(FINAL)?node-id=0%3A1&t=eKznSepsQMruIlMh-0.
 
